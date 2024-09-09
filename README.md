@@ -21,7 +21,7 @@
 <h2>📜 Certifications</h2>
 
 - [CompTIA Security+]()
-- [CompTIA CySA]()
+- [CompTIA CySA](https://imgur.com/8kfZ8QC)
 - [Microsoft AZ900](https://www.youtube.com/watch?v=N-L9hklSlNk)
 
 <h2> 🤳 Connect with me:</h2>
