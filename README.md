@@ -20,9 +20,20 @@
 
 <h2>📜 Certifications</h2>
 
-- [CompTIA Security+]()
-- [CompTIA CySA](https://imgur.com/8kfZ8QC)
-- [Microsoft AZ900](https://www.youtube.com/watch?v=N-L9hklSlNk)
+- CompTIA Security+
+<p align="center">
+<br/>
+<img src="https://imgur.com/t616zLD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+  
+- CompTIA CySA
+    
+<p align="center">
+<br/>
+<img src="https://imgur.com/8kfZ8QC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+  
+- Microsoft AZ900
 
 <h2> 🤳 Connect with me:</h2>
 
