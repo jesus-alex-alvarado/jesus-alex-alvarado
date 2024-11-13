@@ -4,6 +4,8 @@
 
 - <b>Active Directory Home Lab Guide</b>
   - [Step by step guide](https://github.com/jesus-alex-alvarado/ActiveDirectoryLab)
+- <b>Automating with Python</b>
+  - [Python Scripts](https://github.com/jesus-alex-alvarado/ActiveDirectoryLab)
 - <b>Mobile Application Forensic Framework</b>
   - [Publishing I provided research on](https://www.sciencedirect.com/science/article/abs/pii/S016740482100050X) <b><i>
 
